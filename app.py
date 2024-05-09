@@ -1,6 +1,8 @@
 import streamlit as st
 from new import transcribe_speech
 import os
+import pkg_resources
+print(f"PyAudio version: {pkg_resources.get_distribution('PyAudio').version}")
 
 def main():
     st.title("Speech Recognition App")
