@@ -79,7 +79,7 @@ def transcribe_speech(recognition_api='google', language='en-US', pause_resume=F
 
 ## Contributing
 
-If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/your-username/speech-recognition-app).
+If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/segunumoru1/Speech_Recognition).
 
 ## License
 
